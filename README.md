@@ -15,6 +15,10 @@ Após clonar o repositório, é necessário ir ao diretório raiz, pelo terminal
 
 > É fortemente indicado o uso de ambientes virtuais do tipo [virtualenv](https://virtualenv.pypa.io/en/latest/installation.html).
 
+Para armazenar arquivos grandes como o do modelo, utilizamos o LFS (Git Large File Storage ).  
+Download: https://git-lfs.com/
+Instale o LFS: git lfs install  
+
 ```
 (env)$ pip install -r requirements.txt
 ```
