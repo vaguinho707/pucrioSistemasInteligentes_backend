@@ -39,3 +39,7 @@ automaticamente após uma mudança no código fonte.
 ```
 
 Abra a API em  [http://localhost:5000/#/](http://localhost:5000/#/) no navegador para verificar o status da API em execução.
+
+-----------------------------
+
+## Para executar os testes, execute o comando "pytest"
